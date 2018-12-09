@@ -1,0 +1,15 @@
+***** beginning 
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/venkatesh555/venky.git
+git push -u origin master
+*****
+
+
+git init
+touch a.txt
+git add a.txt
+ls
+git commit -m "dd"
+git push
